@@ -10,6 +10,10 @@ This is offered as a simple web service that provides the following operations:
 - Calculate stock price based on trades recorded in the past X minutes (configurable)
 - Calculate the GBCE All Share Index using geometric mean of prices for all stocks
 
+### Requirements
+- Java 8
+- Maven 3
+
 ### Design
 The application is structured in layers, namely:
 
