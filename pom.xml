@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hugopicado.stocks</groupId>
-    <artifactId>simple-stocks</artifactId>
+    <artifactId>stocks-api</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 

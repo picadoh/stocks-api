@@ -1,5 +1,6 @@
-### Simple Stocks Application
-This application provides the means of managing simple stocks and trades.
+### Simple Stocks API
+
+This is an example application that provides the means of managing simple stocks and trades.
 
 This is offered as a simple web service that provides the following operations:
 - Record a trade
